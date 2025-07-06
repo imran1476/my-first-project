@@ -1,0 +1,29 @@
+body{
+    background-color:#f0f0f0;
+    font-size:18px;
+    padding:20px;
+    font-family: Arial, sans-serif;
+}
+.para1{
+    background-color:bisque;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(red, green, blue);
+    max-width:600px;
+    margin:0 auto;
+}
+h3{
+    background-color:gray;
+    text-align:center;
+    color:black;
+    padding:15px;
+    border-radius:15px;
+    box-shadow:15px black;
+}
+.para2{
+    background-color:aliceblue;
+    padding:15px;
+    border-radius:10px;
+    border:2px dashed black;
+    margin-top:20px;
+}
